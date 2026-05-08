@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vartika Bhojwani</h1>
 <h3 align="center">Python Developer focused on AI Engineering, ML, and scalable backend systems.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vartikax-ai&label=Profile%20views&color=0e75b6&style=flat" alt="vartikax-ai" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vartikax-ai" alt="vartikax-ai" /></a> </p>
+
 - 🌱 I’m currently learning **Machine Learning,NLP,Backend Development,Flask,AI Engineering Concepts**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vartikaX-ai/vartikaX-ai](https://github.com/vartikaX-ai/vartikaX-ai)
+- 👨‍💻 All of my projects are available at [https://github.com/vartikaX-ai](https://github.com/vartikaX-ai)
 
 - 📫 How to reach me **vartikabhojwani881@gmail.com**
 
