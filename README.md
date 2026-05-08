@@ -1,48 +1,53 @@
 <h1 align="center">Hi 👋, I'm Vartika Bhojwani</h1>
-<h3 align="center">Python Developer focused on AI Engineering, ML, and scalable backend systems.</h3>
 
-- 🌱 I’m currently learning **Machine Learning,NLP,Backend Development,Flask,AI Engineering Concepts**
+<h3 align="center">
+Aspiring AI Engineer | Python & Machine Learning Enthusiast
+</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/vartikaX-ai](https://github.com/vartikaX-ai)
-
-- 📫 How to reach me **vartikabhojwani881@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+Building AI applications with Python, ML, NLP, and backend technologies 🚀
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  </a>
+- 🌱 I’m currently learning **Machine Learning, NLP, Backend Development, Flask, and AI Engineering**
 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="45" height="45"/>
-  </a>
+- 👨‍💻 All of my projects are available at  
+  https://github.com/vartikaX-ai
 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/>
-  </a>
 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
-  </a>
+- 📫 How to reach me  
+  **vartikabhojwani881@gmail.com**
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-  </a>
+---
 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
-  </a>
+## 🚀 Languages and Tools
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  </a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-  </a>
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+
+## 🌐 Connect With Me
+
+[GitHub](https://github.com/vartikaX-ai)
+
+<p align="center">
+⭐ Exploring AI Engineering one project at a time ⭐
 </p>
