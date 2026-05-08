@@ -43,11 +43,5 @@ Building AI applications with Python, ML, NLP, and backend technologies 🚀
 
 ---
 
-
-## 🌐 Connect With Me
-
-[GitHub](https://github.com/vartikaX-ai)
-
-<p align="center">
 ⭐ Exploring AI Engineering one project at a time ⭐
 </p>
