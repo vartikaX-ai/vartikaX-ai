@@ -46,7 +46,7 @@ Building AI applications with Python, ML, NLP, and backend technologies 🚀
 ### 🧑‍💼 Hiring Assistant
 AI-powered interview assistant that collects candidate information, recommends suitable technology domains, and conducts mock interviews with automated feedback generation.
 
-**Tech Stack:** Python, Flask, NLP, Machine Learning
+**Tech Stack:** Python, Streamlit , NLP, Machine Learning
 
 **Key Features:**
 - Candidate information collection
