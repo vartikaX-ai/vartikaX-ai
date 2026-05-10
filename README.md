@@ -54,6 +54,13 @@ AI-powered interview assistant that collects candidate information, recommends s
 - Mock interview simulation
 - Answer evaluation and feedback generation
 
+**Future Enhancements:**
+- Resume-based interview customization
+- Voice-based interview interaction
+- Advanced NLP-based evaluation
+- Cloud deployment support
+
+
 ---
 
 ### 📝 Smart Meeting Minutes Generator (MeetMinute.AI)
