@@ -41,7 +41,36 @@ Building AI applications with Python, ML, NLP, and backend technologies 🚀
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+## 🚀 Projects
+
+### 🧑‍💼 Hiring Assistant
+AI-powered interview assistant that collects candidate information, recommends suitable technology domains, and conducts mock interviews with automated feedback generation.
+
+**Tech Stack:** Python, Flask, NLP, Machine Learning
+
+**Key Features:**
+- Candidate information collection
+- Domain recommendation system
+- Mock interview simulation
+- Answer evaluation and feedback generation
+
 ---
 
-⭐ Exploring AI Engineering one project at a time ⭐
-</p>
+### 📝 Smart Meeting Minutes Generator (MeetMinute.AI)
+AI-based meeting summarization system that converts meeting audio into structured minutes with speaker-wise conversation flow and categorized discussion points.
+
+**Tech Stack:** Python, Whisper, PyAnnote, Groq API, spaCy, ReportLab, NLP
+
+**Key Features:**
+- Speech-to-text transcription using Whisper
+- Speaker diarization using PyAnnote
+- AI-powered sentence classification
+- Structured meeting minute generation
+- PDF export support
+
+**Future Enhancements:**
+- Multilingual meeting support
+- Real-time meeting summarization
+- Large-scale meeting optimization
+- Integrated Zoom-like meeting platform
+- Cloud deployment for scalability
